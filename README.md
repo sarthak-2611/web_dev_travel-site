@@ -22,4 +22,3 @@ It was created as a college assignment to practice basic web development and lay
 - CSS3 (Flexbox and Grid)  
 
 
-1. Download or clone this repository:
